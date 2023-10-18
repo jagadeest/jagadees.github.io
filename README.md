@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>My Personal Page</title>
-</head>
+
 <body>
     <h1>Hello, World!</h1>
     <p>This is my personal page on GitHub.</p>
